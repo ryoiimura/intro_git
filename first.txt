@@ -1,2 +1,6 @@
 1. git の学習
 2．基本的なWFを学ぶ
+
+git add
+git commit
+
